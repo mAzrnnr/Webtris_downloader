@@ -1,5 +1,5 @@
-# Webtris_downloader_WIP
-Jupyter Notebook to visualize Webtris site and download data
+# Webtris_downloader
+Jupyter Notebook to visualize Webtris site and download data (WIP)
 
 Created by
 ----------------------------
